@@ -1,5 +1,9 @@
 # Hermes Agent in Buzz
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+Connect Hermes AI agents to your Buzz community — named profiles that answer DMs and @mentions in rooms. Cardless multi-agent gateway setup for Mac.
+
 Cardless gateway: create the helper **on the Mac**. Buzz only admits the public hex as a **People** member. They **will not** appear on **Agents**. Missing there is success.
 
 | Track | Hermes home | Procedure |
